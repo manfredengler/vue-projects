@@ -4,8 +4,8 @@ import PersonCardsGrid from './PersonCardsGrid.vue'
 </script>
 
 <template>
-    <InputBill />
-    <PersonCardsGrid />
+  <InputBill />
+  <PersonCardsGrid />
 </template>
 
 <style></style>
